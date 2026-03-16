@@ -35,7 +35,7 @@ I'm a **Full-Stack, DevOps & Game developer** passionate about building robust, 
       <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br/>MongoDB</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=unrealengine" height="40"/><br/>Unreal Engine</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=unity" height="40"/><br/>Unity</td>
-      <td align="center"><br/>Perforce</td></td>
+      <td align="center"><img src="./assets/icons/logo-p4-icon-reg.svg" height="40"/><br/>Perforce</td></td>
     </tr>
   </table>
 </div>
